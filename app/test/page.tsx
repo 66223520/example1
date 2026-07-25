@@ -1,5 +1,5 @@
 export default async function test() {
     return(
-      <div>test</div>  
+      <div>test krub</div>  
     );
 }
